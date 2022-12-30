@@ -1,6 +1,4 @@
-# proofs-of-existence-demo
-
-Substrate入门课【第六课作业】
+# Substrate入门课【第六课作业】
 
 ### 使用polkadot js api来写一个订阅Event的程序
 
